@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=minhaj4me)
+
+[![@minhaj4me's Holopin board](https://holopin.me/minhaj4me)](https://holopin.io/@minhaj4me)
+
 <!--
 **minhaj4me/minhaj4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
