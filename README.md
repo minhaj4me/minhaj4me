@@ -2,6 +2,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=minhaj4me)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minhaj4me&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![@minhaj4me's Holopin board](https://holopin.me/minhaj4me)](https://holopin.io/@minhaj4me)
 
 <!--
