@@ -1,3 +1,5 @@
+https://visitor-badge.glitch.me/badge?page_id=minhaj4me.visitor-badge
+
 ### Hi there this is minhaj haider 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=minhaj4me)
