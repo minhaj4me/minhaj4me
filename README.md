@@ -1,4 +1,4 @@
-https://visitor-badge.glitch.me/badge?page_id=minhaj4me.visitor-badge
+![Visitor Count](https://profile-counter.glitch.me/{minhaj4me}/count.svg)
 
 ### Hi there this is minhaj haider 👋
 
