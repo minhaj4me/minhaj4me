@@ -4,6 +4,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minhaj4me&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhaj4me"/>
+
 [![@minhaj4me's Holopin board](https://holopin.me/minhaj4me)](https://holopin.io/@minhaj4me)
 
 <!--
