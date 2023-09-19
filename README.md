@@ -1,6 +1,6 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{minhaj4me}/count.svg) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=minhaj4me&left_color=purple&right_color=grey)
+![Visitor Count](https://profile-counter.glitch.me/minhaj4me/count.svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
