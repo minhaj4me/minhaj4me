@@ -20,10 +20,8 @@
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-[![@minhaj4me's Holopin board](https://holopin.me/minhaj4me)](https://holopin.io/@minhaj4me)
 
-
-
+[![An image of @minhaj4me's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minhaj4me)](https://holopin.io/@minhaj4me)
 
 <!--
 **minhaj4me/minhaj4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
