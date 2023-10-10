@@ -22,3 +22,4 @@
 
 [![An image of @minhaj4me's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minhaj4me)](https://holopin.io/@minhaj4me)
 
+[![An image of @minhaj4me's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minhaj4me)](https://holopin.io/@minhaj4me)
